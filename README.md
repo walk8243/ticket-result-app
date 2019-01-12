@@ -7,7 +7,7 @@
 - 定期的な開発
 
 ## 開発スケジュール
-Xamarinによる「Hello World」
+**Xamarinによる「Hello World」**
 
 単体のチケットの抽選結果を確認
 
